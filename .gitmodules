@@ -1,3 +1,0 @@
-[submodule "subsubmodule-lib"]
-	path = subsubmodule-lib
-	url = https://github.com/Ooblah/subsubmodule-lib.git
